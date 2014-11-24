@@ -1,0 +1,30 @@
+######################################
+#  3 kreisfreie Städte - München, Ingolstadt Rosenheim
+#  20 Landkreise
+
+München (Kreisefreie Stadt)
+Ingolstadt
+Rosenheim (Kreisefreie Stadt)
+
+
+Altötting
+Bad Tölz-Wolfratshausen,  Landkreis_Bad_Tölz-Wolfratshausen
+Berchtesgadener Land
+Dachau
+Ebersberg
+Eichstätt
+Erding,              Landkreis_Erding
+Freising,            Landkreis_Freising
+Fürstenfeldbruck
+Garmisch-Partenkirchen
+Landsberg am Lech
+Miesbach
+Mühldorf am Inn
+München (Landkreis),  Landkreis_München
+Neuburg-Schrobenhausen
+Pfaffenhofen an der Ilm
+Rosenheim  (Landkreis)
+Starnberg
+Traunstein
+Weilheim-Schongau
+

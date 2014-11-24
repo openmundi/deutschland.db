@@ -1,0 +1,56 @@
+################################
+# Germany / Deutschland (de)
+
+
+# Top metros (metropolitan areas/urban areas - includes metro/urban area beyond proper city limits)
+
+ruhr, Ruhrgebiet [Ruhr area] › Nordrhein-Westfalen, M: 7_304_000, metro   # includes essen, bochum, dortmund, gelsenkirchen
+Köln/Bonn  [Cologne-Bonn] › Nordrhein-Westfalen,  M: 2_063_000, metro   # includes koeln, leverkusen, bergischgladbach, bonn
+
+
+# -- top 10 cities 
+
+Berlin                › Berlin,                3_501_872,  M: 3_453_000
+Hamburg               › Hamburg,               1_798_836,  M: 1_794_000
+München [Munich]      › Bayern,                1_378_176,  M: 1_355_000
+Köln     › Köln/Bonn  › Nordrhein-Westfalen,   1_017_155                   ##  metro:koelnbonn
+Frankfurt             › Hessen,                  691_518,  M: 2_300_000     # frankfurt metro includes wiesbaden, darmstadt
+Stuttgart             › Baden-Württemberg,       613_392,  M: 1_272_000
+Düsseldorf            › Nordrhein-Westfalen,     592_393
+Dortmund › Ruhrgebiet › Nordrhein-Westfalen,     580_956                   ## metro:ruhr
+Essen    › Ruhrgebiet › Nordrhein-Westfalen,     573_468                   ## metro:ruhr
+Bremen                › Bremen,                  548_319                   ## state:hb
+
+
+Duisburg › Ruhrgebiet › Nordrhein-Westfalen,     513_400        ## metro:ruhr
+Leipzig               › Sachsen,                 486_100        ## state:sn
+Dresden               › Sachsen,                 473_300        ## state:sn
+Bochum   › Ruhrgebiet › Nordrhein-Westfalen,     388_100        ## state:nw, metro:ruhr
+Bonn     › Köln/Bonn  › Nordrhein-Westfalen,     307_500        ## state:nw, metro:koelnbonn
+
+# -- more cities
+
+Nürnberg [Nuremberg] › Bayern,   510_602, M: 1_020_000    ## state:by
+Augsburg             › Bayern,   266_647                  ## state:by
+Fürth                › Bayern,   116_317                  ## state:by
+Hoffenheim           › Baden-Württemberg,    3_272        ## state:bw
+Freiburg             › Baden-Württemberg,  229_144        ## state:bw
+Hannover             › Niedersachsen,      525_875        ## state:ni
+Wolfsburg            › Niedersachsen,      122_583        ## state:ni
+Gelsenkirchen › Ruhrgebiet › Nordrhein-Westfalen,  256_652   ## state:nw, metro:ruhr
+Leverkusen    › Köln/Bonn  › Nordrhein-Westfalen,  161_195   ## state:nw, metro:koelnbonn
+M'gladbach|Mönchengladbach › Nordrhein-Westfalen,  257_208   ## state:nw
+Mainz                › Rheinland-Pfalz,            200_957   ## state:rp
+
+# from 2. Bundesliga
+
+Braunschweig   › Niedersachsen        ## state:ni
+Kaiserslautern › Rheinland-Pfalz      ## state:rp
+Cottbus        › Brandenburg          ## state:bb
+Aalen          › Baden-Württemberg    ## state:bw
+Sandhausen     › Baden-Württemberg    ## state:bw
+Paderborn      › Nordrhein-Westfalen  ## state:nw
+Aue            › Sachsen              ## state:sn
+Regensburg     › Bayern               ## state:by
+Ingolstadt     › Bayern               ## state:by
+

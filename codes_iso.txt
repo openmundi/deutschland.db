@@ -6,14 +6,14 @@
 
 
 DE-BW, Baden-Württemberg
-DE-BY, Bayern,                Bavaria [en]
+DE-BY, Bayern
 DE-BE, Berlin
 DE-BB, Brandenburg
 DE-HB, Bremen
 DE-HH, Hamburg
 DE-HE, Hessen
 DE-MV, Mecklenburg-Vorpommern
-DE-NI, Niedersachsen,         Lower Saxony [en]
+DE-NI, Niedersachsen
 DE-NW, Nordrhein-Westfalen
 DE-RP, Rheinland-Pfalz
 DE-SL, Saarland

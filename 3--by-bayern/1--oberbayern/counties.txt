@@ -1,5 +1,5 @@
 ###
-# Bayern > Oberbayern
+# Oberbayern > Bayern
 #
 # Verwaltungssitz: München
 #
@@ -17,22 +17,22 @@ ro, Rosenheim (Kreisefreie Stadt)    ## use (Stadt) ???
 
 
 aoe, Altötting
-Bad Tölz-Wolfratshausen, Bad Tölz, 1_111 km², de.wikipedia:Landkreis_Bad_Tölz-Wolfratshausen
+Bad Tölz-Wolfratshausen,  Bad Tölz,  1_111 km²
   ## Kfz-Kennzeichen: TÖL, WOR  - what to use ??
 
 bgl, Berchtesgadener Land
 dah, Dachau
 ebe, Ebersberg
 ei,  Eichstätt
-ed,  Erding,    Erding,     870 km²,  de.wikipedia: Landkreis_Erding
-fs,  Freising,  Freising,   802 km²,  de.wikipedia: Landkreis_Freising
+ed,  Erding,    Erding,     870 km²
+fs,  Freising,  Freising,   802 km²
 ffb, Fürstenfeldbruck
 gap, Garmisch-Partenkirchen
 ll,  Landsberg am Lech
 mb,  Miesbach
 mue, Mühldorf am Inn
 
-München (Landkreis), München,  667 km², de.wikipedia: Landkreis_München     ### todo - use different key - see kreisfrei stadt muenchen
+München (Landkreis), München,  667 km²     ### todo - use different key - see kreisfrei stadt muenchen
   ## Kfz-Kennzeichen: M, AIB, WOR - what to use ??
 
 Neuburg-Schrobenhausen
