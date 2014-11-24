@@ -1,0 +1,24 @@
+##############################################
+#
+# see en.wikipedia.org/wiki/ISO_3166-2:DE
+#
+# NOTE: For Germany, ISO 3166-2 codes are defined for all 16 states.
+
+
+DE-BW, Baden-Württemberg
+DE-BY, Bayern,                Bavaria [en]
+DE-BE, Berlin
+DE-BB, Brandenburg
+DE-HB, Bremen
+DE-HH, Hamburg
+DE-HE, Hessen
+DE-MV, Mecklenburg-Vorpommern
+DE-NI, Niedersachsen,         Lower Saxony [en]
+DE-NW, Nordrhein-Westfalen
+DE-RP, Rheinland-Pfalz
+DE-SL, Saarland
+DE-SN, Sachsen
+DE-ST, Sachsen-Anhalt
+DE-SH, Schleswig-Holstein
+DE-TH, Thüringen
+

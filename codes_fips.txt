@@ -1,0 +1,18 @@
+
+
+GM01, Baden-Württemberg                                          ## State
+GM02, Bayern,              Bavira [en]                           ## Free State of 
+GM03, Bremen                                                     ## Free Hanseatic City of 
+GM04, Hamburg                                                    ## Free Hanseatic City of 
+GM05, Hessen,              Hesse [en]                            ## State
+GM06, Niedersachsen,       Lower Saxony [en]                     ## State
+GM07, Nordrhein-Westfalen, North Rhine-Westphalia [en]           ## State
+GM08, Rheinland-Pfalz,     Rhineland-Palatinate [en]             ## State
+GM09, Saarland                                                   ## State
+GM10, Schleswig-Holstein                                         ## State
+GM11, Brandenburg                                                ## State
+GM12, Mecklenburg-Vorpommern, Mecklenburg-Western Pomerania [en] ## State
+GM13, Sachsen,                Saxony [en]                        ## Free State of 
+GM14, Sachsen-Anhalt                                             ## State
+GM15, Thüringen,              Thüringia  [en]                    ## Free State of 
+GM16, Berlin                                                     ## State
