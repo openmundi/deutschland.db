@@ -1,0 +1,8 @@
+
+
+europe/de-deutschland!/states.txt
+europe/de-deutschland!/cities.txt
+
+### todo - add state codes
+### todo - add counties
+
