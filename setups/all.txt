@@ -1,7 +1,7 @@
 
 
-europe/de-deutschland!/states.txt
-europe/de-deutschland!/cities.txt
+europe/de-deutschland!/states
+europe/de-deutschland!/cities
 
 ### todo - add state codes
 ### todo - add counties
