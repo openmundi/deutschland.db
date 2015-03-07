@@ -1,0 +1,17 @@
+
+Ansbach (Stadt),    39_839, 100 km²   # AN
+Erlangen (Stadt),  105_624,  77 km²   # ER
+Fürth (Stadt),     119_808,  63 km²   # FÜ
+Nürnberg (Stadt),  498_876, 186 km²   # N
+Schwabach (Stadt),  39_546,  41 km²   # SC
+
+
+anland,  Ansbach (Landkreis),  Ansbach,   178_914,  1_972 km²    #  AN, DKB, FEU, ROT
+fueland, Fürth (Landkreis),    Zirndorf,  114_513,    308 km²   # FÜ
+
+Erlangen-Höchstadt,   Erlangen,  132_012,    565 km²   # ERH, HÖS
+Neustadt an der Aisch-Bad Windsheim, Neustadt an der Aisch,  97_482,  1_267 km²   # NEA, SEF, UFF
+Nürnberger Land, Lauf an der Pegnitz,    165_000, 800 km²   # LAU, ESB, HEB, N, PEG
+Roth,      Roth,                 123_431,    895 km²    # RH, HIP
+Weißenburg-Gunzenhausen, Weißenburg,   92_331,   971 km²   # WUG, GUN  -- Weißenburg in Bayern
+

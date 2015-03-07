@@ -1,7 +1,27 @@
+################################
+# Deutschland (de)
 
 
-europe/de-deutschland!/states
-europe/de-deutschland!/cities
+de-deutschland!/states                                ## Laender (adm1)
+de-deutschland!/3--by-bayern/districts                ## Regierungsbezirke (adm2)
+
+######
+# Oberfranken    Bayreuth     9 | 4  (kreisefreie Staedte)
+# Mittelfranken  Ansbach      7 | 5
+# Unterfranken   Würzburg     9 | 3
+# Schwaben       Augsburg    10 | 4
+# Oberpfalz      Regensburg   7 | 3
+# Oberbayern     München     20 | 3
+# Niederbayern   Landshut     9 | 3
+# ------------------------------------
+# = Bayern       München     71 | 25 
+
+
+de-deutschland!/3--by-bayern/1--oberbayern/counties  ## Landkreise u Kreisefrei Staedte (adm3)
+
+
+
+de-deutschland!/cities
 
 ### todo - add state codes
 ### todo - add counties

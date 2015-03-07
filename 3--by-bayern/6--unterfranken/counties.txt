@@ -1,0 +1,17 @@
+
+
+Aschaffenburg (Stadt),   67_844,  63 km²   # AB
+Schweinfurt (Stadt),     51_851,  36 km²  # SW
+Würzburg (Stadt),       124_698,  88 km²  # WÜ
+
+
+abland,  Aschaffenburg (Landkreis), Aschaffenburg,   172_791,  699 km²   # AB, ALZ
+swland,  Schweinfurt (Landkreis),     Schweinfurt,   113_007,  841 km²     # SW, GEO
+wueland, Würzburg (Landkreis),        Würzburg,      158_580,  968 km²   # WÜ, OCH
+
+Bad Kissingen,   Bad Kissingen,   102_865, 1_137 km²   # KG, BRK, HAB
+Haßberge,        Haßfurt,          84_090,   957 km²   # HAS, EBN, GEO, HOH
+Kitzingen,       Kitzingen,        88_097,   684 km²   # KT
+Main-Spessart,   Karlstadt,       126_295, 1_321 km² # MSP
+Miltenberg,      Miltenberg,      127_909,   716 km²  # MIL
+Rhön-Grabfeld,   Bad Neustadt an der Saale,  79_965, 1_022 km²   # NES, KÖN, MET

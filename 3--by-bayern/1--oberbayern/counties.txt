@@ -11,9 +11,15 @@
 #  3 kreisfreie Städte - München, Ingolstadt Rosenheim
 #  20 Landkreise
 
-m,  München (Kreisefreie Stadt)   ## use (Stadt) ???
+m,  München (Stadt)
 in, Ingolstadt
-ro, Rosenheim (Kreisefreie Stadt)    ## use (Stadt) ???
+ro, Rosenheim (Stadt)
+
+
+mland,  München (Landkreis), München,  667 km²     ### todo - use different key - see kreisfrei stadt muenchen
+  ## Kfz-Kennzeichen: M, AIB, WOR - what to use ??
+roland, Rosenheim  (Landkreis)  ### todo - use different key - see kreisfrei stadt rosenheim
+   ## Kfz-Kennzeichen: RO, AIB, WS - what to use ??
 
 
 aoe, Altötting
@@ -32,16 +38,12 @@ ll,  Landsberg am Lech
 mb,  Miesbach
 mue, Mühldorf am Inn
 
-München (Landkreis), München,  667 km²     ### todo - use different key - see kreisfrei stadt muenchen
-  ## Kfz-Kennzeichen: M, AIB, WOR - what to use ??
 
 Neuburg-Schrobenhausen
   ## Kfz-Kennzeichen: ND, SOB  - what to use ??
   
 paf, Pfaffenhofen an der Ilm
 
-Rosenheim  (Landkreis)  ### todo - use different key - see kreisfrei stadt rosenheim
-   ## Kfz-Kennzeichen: RO, AIB, WS - what to use ??
 
 sta, Starnberg   ## kfz-kennzeichen: STA, WOR
 ts,  Traunstein
