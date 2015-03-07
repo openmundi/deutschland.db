@@ -11,42 +11,41 @@
 #  3 kreisfreie Städte - München, Ingolstadt Rosenheim
 #  20 Landkreise
 
-m,  München (Stadt)
-in, Ingolstadt
-ro, Rosenheim (Stadt)
+m,  München (Stadt),       1_407_836, 310 km²
+in, Ingolstadt (Stadt),      129_136, 133 km²
+ro, Rosenheim (Stadt),        60_464,  37 km²
 
 
-mland,  München (Landkreis), München,  667 km²     ### todo - use different key - see kreisfrei stadt muenchen
+mland,  München (Landkreis), München,   329_981, 667 km²     ### todo - use different key - see kreisfrei stadt muenchen
   ## Kfz-Kennzeichen: M, AIB, WOR - what to use ??
-roland, Rosenheim  (Landkreis)  ### todo - use different key - see kreisfrei stadt rosenheim
+roland, Rosenheim  (Landkreis), Rosenheim, 249_810,  1_439 km²       ### todo - use different key - see kreisfrei stadt rosenheim
    ## Kfz-Kennzeichen: RO, AIB, WS - what to use ??
 
 
-aoe, Altötting
-Bad Tölz-Wolfratshausen,  Bad Tölz,  1_111 km²
-  ## Kfz-Kennzeichen: TÖL, WOR  - what to use ??
-
-bgl, Berchtesgadener Land
-dah, Dachau
-ebe, Ebersberg
-ei,  Eichstätt
-ed,  Erding,    Erding,     870 km²
-fs,  Freising,  Freising,   802 km²
-ffb, Fürstenfeldbruck
-gap, Garmisch-Partenkirchen
-ll,  Landsberg am Lech
-mb,  Miesbach
-mue, Mühldorf am Inn
+aoe, Altötting, Altötting,          106_965,    569 km²    ## AÖ
+Bad Tölz-Wolfratshausen,  Bad Tölz, 122_118,  1_111 km²    ## Kfz: TÖL, WOR  - what to use ??
 
 
-Neuburg-Schrobenhausen
-  ## Kfz-Kennzeichen: ND, SOB  - what to use ??
+bgl, Berchtesgadener Land, Bad Reichenhall,  102_346,  840 km²   # BGL
+dah, Dachau,  Dachau,                        144_407,  579 km²   # DAH
+ebe, Ebersberg, Ebersberg,                   133_007,  549 km²   # EBE
+ei,  Eichstätt, Eichstätt,                   125_858, 1_214 km²  # EI
+ed,  Erding,    Erding,       130_238,  870 km²    # ED
+fs,  Freising,  Freising,     169_010,  802 km²    # FS
+ffb, Fürstenfeldbruck, Fürstenfeldbruck,   208_272,  435 km²     # FFB
+gap, Garmisch-Partenkirchen, Garmisch-Partenkirchen,  85_443, 1_012 km²  # GAP
+ll,  Landsberg am Lech, Landsberg am Lech,   114_926, 805 km²   # LL
+mb,  Miesbach, Miesbach,                     96_049,  864 km²   # MB
+mue, Mühldorf am Inn, Mühldorf am Inn,      109_227, 805 km²   # MÜ
+
+
+Neuburg-Schrobenhausen, Neuburg a.d.Donau,   92_700,   740 km²  # ND, SOB
   
-paf, Pfaffenhofen an der Ilm
+paf, Pfaffenhofen an der Ilm, Pfaffenhofen an der Ilm, 119_987, 760 km²  # PAF
 
 
-sta, Starnberg   ## kfz-kennzeichen: STA, WOR
-ts,  Traunstein
-Weilheim-Schongau
-   ## Kfz-Kennzeichen: WM, SOG  - what to use ??
+sta, Starnberg, Starnberg,    130_811,   488 km²     # kfz: STA, WOR
+ts,  Traunstein, Traunstein,  170_364,  1_534 km²   # TS
+Weilheim-Schongau, Weilheim in Oberbayern,  130_387,  966 km²   # Kfz: WM, SOG  - what to use ??
+
 

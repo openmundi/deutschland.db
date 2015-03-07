@@ -1,0 +1,19 @@
+
+Augsburg (Stadt),   276_542, 147 km²   # A
+Kaufbeuren (Stadt),  41_759,  40 km²  # KF
+Kempten (Stadt),     65_044,  63 km²  # KE
+Memmingen (Stadt),   41_772,  70 km²  # MM
+
+
+aland, Augsburg (Landkreis),  Augsburg,  240_911, 1_071 km²  # A
+
+Aichach-Friedberg,     Aichach,   128_435,  783 km²    #  AIC, FDB
+Dillingen an der Donau, Dillingen an der Donau,  93_129, 792 km²   # DLG, WER
+Donau-Ries,   Donauwörth,   129_422,  1_275 km²   # DON, NÖ
+Günzburg,     Günzburg,     120_696,   763 km²    # GZ, KRU
+Lindau (Bodensee), Lindau (Bodensee), 78_939, 323 km²    # LI
+Neu-Ulm,  Neu-Ulm,         166_643,  515 km²    # NU, ILL
+Oberallgäu, Sonthofen,     150_478,  1_528 km²   # OA
+Ostallgäu,   Marktoberdorf, 134_771, 1_395 km²  # OAL, FÜS, MOD
+Unterallgäu,  Mindelheim,   137_484, 1_230 km²   # MN
+

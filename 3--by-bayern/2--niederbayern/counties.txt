@@ -1,0 +1,17 @@
+
+Landshut (Stadt),  66_179, 66 km²  # LA
+Passau (Stadt),    49_454, 70 km²  # PA
+Straubing (Stadt), 45_502, 68 km²  # SR
+
+
+laland, Landshut (Landkreis), Landshut,     150_316,  1_348 km²   # LA, MAI, MAL, ROL, VIB
+paland, Passau (Landkreis),   Passau,       185_671,  1_530 km²   # PA
+
+Deggendorf, Deggendorf,           115_374,   861 km²   # DEG
+Dingolfing-Landau,  Dingolfing,    92_565,   878 km²   # DGF
+Freyung-Grafenau,   Freyung,       77_626,   984 km²   # FRG, GRA, WOS
+Kelheim,            Kelheim,      115_232, 1_067 km²   # KEH, MAI, PAR, RID, ROL
+Regen,              Regen,         76_257,   975 km²   # REG
+Rottal-Inn,         Pfarrkirchen, 117_654, 1_280 km²   # PAN, EG, GRI, VIB
+Straubing-Bogen,    Straubing,     97_323, 1_202 km²   # SR
+

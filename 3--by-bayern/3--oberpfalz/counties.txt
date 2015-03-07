@@ -1,0 +1,16 @@
+
+
+Amberg (Stadt),       41_592,  50 km²  # AM
+Regensburg (Stadt),  140_276,  81 km²  # R
+Weiden (Stadt),       41_726,  71 km²  # WEN
+
+
+rland, Regensburg (Landkreis), Regensburg,   185_980,  1_396 km²    # R
+
+Amberg-Sulzbach,  Amberg,   103_074,  1_255 km²    # AS, BUL, ESB, NAB, SUL
+Cham,             Cham,     125_553,  1_510 km²   # CHA, KÖZ, ROD, WÜM
+Neumarkt in der Oberpfalz, Neumarkt in der Oberpfalz,  127_826,   1_344 km²    # NM, PAR
+Neustadt an der Waldnaab, Neustadt an der Waldnaab,     95_447,   1_430 km²   # NEW, ESB, VOH
+Schwandorf, Schwandorf,        143_060,  1_473 km²   # SAD, BUL, NAB, NEN, OVI, ROD
+Tirschenreuth, Tirschenreuth,   73_457,  1_085 km²   # TIR, KEM
+

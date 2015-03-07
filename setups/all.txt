@@ -3,7 +3,6 @@
 
 
 de-deutschland!/states                                ## Laender (adm1)
-de-deutschland!/3--by-bayern/districts                ## Regierungsbezirke (adm2)
 
 ######
 # Oberfranken    Bayreuth     9 | 4  (kreisefreie Staedte)
@@ -16,13 +15,17 @@ de-deutschland!/3--by-bayern/districts                ## Regierungsbezirke (adm2
 # ------------------------------------
 # = Bayern       München     71 | 25 
 
-
+de-deutschland!/3--by-bayern/districts               ## Regierungsbezirke (adm2)
 de-deutschland!/3--by-bayern/1--oberbayern/counties  ## Landkreise u Kreisefrei Staedte (adm3)
-
+de-deutschland!/3--by-bayern/2--niederbayern/counties
+de-deutschland!/3--by-bayern/3--oberpfalz/counties
+de-deutschland!/3--by-bayern/4--oberfranken/counties
+de-deutschland!/3--by-bayern/5--mittelfranken/counties
+de-deutschland!/3--by-bayern/6--unterfranken/counties
+de-deutschland!/3--by-bayern/7--schwaben/counties
 
 
 de-deutschland!/cities
 
 ### todo - add state codes
-### todo - add counties
 
