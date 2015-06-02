@@ -9,13 +9,13 @@ ho,      Hof (Stadt),  44_522,  58 km²    # HO
 
 ## -- Landkreise --
 
-baland,  Bamberg (Landkreis),  Bamberg,     144_425, 1_167 km²   # kfz: BA
-btland, Bayreuth (Landkreis), Bayreuth,    104_637, 1_273 km²   # kfz: BT, EBS, ESB, KEM, MÜB, PEG
-coland,   Coburg (Landkreis),   Coburg,       86_719,   592 km²   # kfz: CO, NEC
-holand,      Hof (Landkreis),      Hof,          97_096,   893 km²   # HO, MÜB, NAI, REH, SAN
+baland,  Bamberg (Land), Bamberg,     144_425, 1_167 km²   # kfz: BA
+btland, Bayreuth (Land), Bayreuth,    104_637, 1_273 km²   # kfz: BT, EBS, ESB, KEM, MÜB, PEG
+coland,   Coburg (Land), Coburg,       86_719,   592 km²   # kfz: CO, NEC
+holand,      Hof (Land), Hof,          97_096,   893 km²   # HO, MÜB, NAI, REH, SAN
 
-Forchheim,            Forchheim,   113_424,   643 km²   # FO, EBS, PEG
-Kronach,              Kronach,      68_484,   652 km²   # KC, SAN
-Kulmbach,             Kulmbach,     72_898,   656 km²   # KU, EBS, SAN
-Lichtenfels,          Lichtenfels,  66_644,   522 km²   # LIF, STE
-Wunsiedel im Fichtelgebirge, Wunsiedel,  73_783, 606 km²  # WUN, MAK, REH, SEL
+fo,  Forchheim,            Forchheim,   113_424,   643 km²   # FO, EBS, PEG
+kc,  Kronach,              Kronach,      68_484,   652 km²   # KC, SAN
+ku,  Kulmbach,             Kulmbach,     72_898,   656 km²   # KU, EBS, SAN
+lif, Lichtenfels,          Lichtenfels,  66_644,   522 km²   # LIF, STE
+wun, Wunsiedel im Fichtelgebirge, Wunsiedel,  73_783, 606 km²  # WUN, MAK, REH, SEL
