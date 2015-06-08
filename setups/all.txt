@@ -15,7 +15,7 @@ de-deutschland!/states                                ## Laender (adm1)
 # ------------------------------------
 # = Bayern       München     71 | 25 
 
-de-deutschland!/3--by-bayern/districts               ## Regierungsbezirke (adm2)
+de-deutschland!/3--by-bayern/parts               ## Regierungsbezirke (adm2)
 de-deutschland!/3--by-bayern/1--oberbayern/counties  ## Landkreise u Kreisefrei Staedte (adm3)
 de-deutschland!/3--by-bayern/2--niederbayern/counties
 de-deutschland!/3--by-bayern/3--oberpfalz/counties
@@ -29,3 +29,5 @@ de-deutschland!/cities
 
 ### todo - add state codes
 
+
+de-deutschland!/3--by-bayern/4--oberfranken/orte
