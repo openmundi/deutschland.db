@@ -18,4 +18,5 @@ fo,  Forchheim,            Forchheim,   113_424,   643 km²   # FO, EBS, PEG
 kc,  Kronach,              Kronach,      68_484,   652 km²   # KC, SAN
 ku,  Kulmbach,             Kulmbach,     72_898,   656 km²   # KU, EBS, SAN
 lif, Lichtenfels,          Lichtenfels,  66_644,   522 km²   # LIF, STE
-wun, Wunsiedel im Fichtelgebirge, Wunsiedel,  73_783, 606 km²  # WUN, MAK, REH, SEL
+wun, Wunsiedel i. Fichtelgebirge|Wunsiedel im Fichtelgebirge, Wunsiedel,  73_783, 606 km²  # WUN, MAK, REH, SEL
+
